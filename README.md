@@ -1,0 +1,2 @@
+# SingToPaint
+A funny game
